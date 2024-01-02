@@ -1,5 +1,5 @@
 # Hi 👋 My name is Paweł Grabacki
-## 3D Artist - IT passionate
+## 3D Modeler - IT passionate
 
 
 
