@@ -5,7 +5,7 @@
 
 * 🌍  I'm based in Kraków.
 * ✉️  You can contact me at [paw.grabacki@gmail.com](mailto:paw.grabacki@gmail.com)
-* 🧠  I'm preparing for certifications.
+* 🧠  I'm currently preparing for certifications.
 * 🤝  I'm open to collaboration on new projects.
 
 ### Skills
