@@ -1,12 +1,11 @@
-# Hi 👋 My name is Paweł Grabacki
-## 3D Modeler - IT passionate
+# Hi My name is Paweł Grabacki
+
 
 
 
 * 🌍  I'm based in Kraków.
 * ✉️  You can contact me at [paw.grabacki@gmail.com](mailto:paw.grabacki@gmail.com)
-* 🚀  I'm currently working on my Pi Cluster project.
-* 🧠  I'm learning GCP and preparing for LPIC-1 101/102 cert.  
+* 🧠  I'm preparing for certifications.
 * 🤝  I'm open to collaboration on new projects.
 
 ### Skills
