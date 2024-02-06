@@ -31,5 +31,6 @@
 
 ### Publications/Contributions
 <a href="https://gamesartist.co.uk/propane-torch/" target="_blank" rel="noreferrer">GamesArtist.co.uk - Propane torch 3D prop article/breakdown</a>  
-<a href="https://theoriginals.renault.com/en" target="_blank" rel="noreferrer">Theoriginals.renault.com  - Vehicle Art</a>
+<a href="https://theoriginals.renault.com/en" target="_blank" rel="noreferrer">Theoriginals.renault.com  - Vehicle Art</a>  
+<a href="https://pawelgrabacki.artstation.com/" target="_blank" rel="noreferrer">Portfolio </a>  
 
